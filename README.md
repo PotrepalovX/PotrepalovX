@@ -7,5 +7,5 @@
 <p>1. None</p>
 
 
-<h2> YOUTUBE </h2> 
-<a href="www.youtube.com/@potrepalov"/>❤️ Youtube ❤️</a>
+<h2> Youtube </h2> 
+<a href="https://www.youtube.com/channel/UCTwgoIFI7Ksc_1XLnlthohw"/>❤️ Youtube ❤️</a>
