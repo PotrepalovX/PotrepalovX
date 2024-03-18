@@ -4,7 +4,7 @@
 <img align='center' src='https://media1.tenor.com/m/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif' width='200"'>
 
 <h2> My main projects 👇</h2>
-<p>1. <a href="https://github.com/ArtyomKingmang/Lazurite">Lazurite Programming language</a></p>
+<p>1. None</p>
 
 
 <h2> Github Stats </h2> 
