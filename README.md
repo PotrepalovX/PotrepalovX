@@ -9,7 +9,3 @@
 
 <h2> Follow Me </h2> 
 <a href="V" /></a>
-
-
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArtyomKingmang&theme=tokyonight" alt="muskanrani" />
-<br/>
