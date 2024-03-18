@@ -8,4 +8,4 @@
 
 
 <h2> YOUTUBE </h2> 
-<p><a href="www.youtube.com/@potrepalov"/></a> YouTube<p>
+<a href="www.youtube.com/@potrepalov"/> Youtube</a>
