@@ -1,7 +1,7 @@
 <h2>POTREPALOV</h2>
 
 
-<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='center' src='https://media1.tenor.com/m/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif' width='200"'>
 
 <h2> My main projects 👇</h2>
 <p>1. <a href="https://github.com/ArtyomKingmang/Lazurite">Lazurite Programming language</a></p>
